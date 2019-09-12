@@ -23,6 +23,7 @@ import shapely
 import shapely.geometry
 from alphabet_detector import AlphabetDetector
 
+print("HI PROJECT!")
 
 # FILES #
 citiesDictionary_file = "Dictionaries/Cities.csv"
